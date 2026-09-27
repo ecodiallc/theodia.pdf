@@ -1,12 +1,5 @@
 # Theodia PDF Library
 
-Public-domain and free-license PDF files for Theodia / UniqueBible.app.
-
-https://www.uniquebible.app/
-https://github.com/eliranwong/UniqueBible
-
-## Catalog
-
 <!-- Keep this table in sync with index.json -->
 
 | ID | Type | File | Name | Description |
