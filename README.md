@@ -99,3 +99,9 @@ Files in this repository follow [`github-repo-naming-standards.md`](https://gith
 ## License
 
 Copyright © Ecodia — https://ecodia.com
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
+
