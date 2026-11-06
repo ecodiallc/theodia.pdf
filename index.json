@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:16:58.071211+00:00",
+  "updatedAt": "2026-11-06T19:18:02.888563+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -684,7 +684,7 @@
       "storageName": "wesley_the_poetical_works_of_john_and_charles_wesley",
       "name": "Wesley The Poetical Works Of John And Charles Wesley",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "winkworth-christian-singers-of-germany",
