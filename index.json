@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T17:13:58.996214+00:00",
+  "updatedAt": "2026-11-06T17:14:39.291375+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -504,7 +504,7 @@
       "storageName": "ridling_the_bible_atlas",
       "name": "Ridling The Bible Atlas",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "robertson-greek-grammar",
