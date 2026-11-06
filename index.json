@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:39:50.498009+00:00",
+  "updatedAt": "2026-11-06T19:47:20.748403+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -270,7 +270,7 @@
       "storageName": "johnson_the_peoples_new_testament",
       "name": "Johnson The Peoples New Testament",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "lewis-sweet-singers-of-wales",
