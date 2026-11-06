@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T16:39:58.004930+00:00",
+  "updatedAt": "2026-11-06T16:40:14.775464+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -657,7 +657,7 @@
       "storageName": "waring_hymns_and_meditations",
       "name": "Waring Hymns And Meditations",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "watts-divine-and-moral-songs",
