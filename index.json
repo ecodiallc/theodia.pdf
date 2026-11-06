@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:20:15.721219+00:00",
+  "updatedAt": "2026-11-06T19:20:35.475475+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -693,7 +693,7 @@
       "storageName": "winkworth_christian_singers_of_germany",
       "name": "Winkworth Christian Singers Of Germany",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "winkworth-the-chorale-book-for-england",
