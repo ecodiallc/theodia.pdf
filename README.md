@@ -83,23 +83,6 @@
 | `winkworth-christian-singers-of-germany` | Winkworth Christian Singers Of Germany |
 | `winkworth-the-chorale-book-for-england` | Winkworth The Chorale Book For England |
 
-## Installation
-
-Add this repository in **Theodia → Settings → GitHub Repositories** using the repository URL, then install items from **Settings → Manage Resources**.
-
-## Naming
-
-Files in this repository follow [`github-repo-naming-standards.md`](https://github.com/ecodiallc/theodia.app/blob/main/notes/github-repo-naming-standards.md):
-
-- Sentence-case each word.
-- Separate words with dashes (`-`).
-- Keep extensions lowercase.
-- Each package declares a stable `storageName` in `index.json` to preserve installed-resource identity if files are renamed in the future.
-
-## License
-
-Copyright © Ecodia — https://ecodia.com
-
 ### Download Theodia.app
 
 - [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
