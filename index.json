@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:49:46.457512+00:00",
+  "updatedAt": "2026-11-06T19:52:03.691688+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -513,7 +513,7 @@
       "storageName": "robertson_greek_grammar",
       "name": "Robertson Greek Grammar",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "sabatier-life-of-saint-francis-of-assisi",
