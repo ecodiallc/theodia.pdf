@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T16:47:31.356107+00:00",
+  "updatedAt": "2026-11-06T16:49:18.718491+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -225,7 +225,7 @@
       "storageName": "harnack_origin_of_the_new_testament",
       "name": "Harnack Origin Of The New Testament",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "heidelberg-catechism",
