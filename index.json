@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T17:10:34.990669+00:00",
+  "updatedAt": "2026-11-06T17:12:23.425676+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -486,7 +486,7 @@
       "storageName": "prudentius_the_hymns_of_prudentius",
       "name": "Prudentius The Hymns Of Prudentius",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "richardson-early-christian-fathers",
