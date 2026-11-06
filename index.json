@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T16:57:44.271589+00:00",
+  "updatedAt": "2026-11-06T17:01:19.817947+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -576,7 +576,7 @@
       "storageName": "schodde_the_book_of_enoch",
       "name": "Schodde The Book Of Enoch",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "scottish-confession-of-faith-1560",
