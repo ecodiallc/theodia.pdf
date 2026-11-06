@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:32:33.969079+00:00",
+  "updatedAt": "2026-11-06T19:32:53.161900+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -441,7 +441,7 @@
       "storageName": "owen_an_exposition_of_the_epistle_to_the_hebrews_vol_6",
       "name": "Owen An Exposition Of The Epistle To The Hebrews, Vol 6",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "owen-an-exposition-of-the-epistle-to-the-hebrews-vol-7",
