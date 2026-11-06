@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:20:35.475475+00:00",
+  "updatedAt": "2026-11-06T19:21:00.103997+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -351,7 +351,7 @@
       "storageName": "montgomery_sacred_poems_and_hymns",
       "name": "Montgomery Sacred Poems And Hymns",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "mounce-what-i-have-learned-about-greek-and-bible-translation",
