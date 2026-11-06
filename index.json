@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T17:04:17.371152+00:00",
+  "updatedAt": "2026-11-06T17:07:22.454676+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -189,7 +189,7 @@
       "storageName": "conybeare_a_grammar_of_septuagint_greek",
       "name": "Conybeare A Grammar Of Septuagint Greek",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "didache",
