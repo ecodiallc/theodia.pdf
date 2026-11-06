@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:58:27.479386+00:00",
+  "updatedAt": "2026-11-06T20:13:34.511749+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -702,7 +702,7 @@
       "storageName": "winkworth_the_chorale_book_for_england",
       "name": "Winkworth The Chorale Book For England",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
