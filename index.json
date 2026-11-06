@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:02:49.141317+00:00",
+  "updatedAt": "2026-11-06T19:03:38.148410+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -333,7 +333,7 @@
       "storageName": "meyer_our_daily_homily",
       "name": "Meyer Our Daily Homily",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "miller-short-papers-on-church-history",
