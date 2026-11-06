@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T17:07:22.454676+00:00",
+  "updatedAt": "2026-11-06T17:09:31.463536+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -99,7 +99,7 @@
       "storageName": "borthwick_hymns_from_the_land_of_luther",
       "name": "Borthwick Hymns From The Land Of Luther",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "brannan-historic-creeds-and-confessions",
