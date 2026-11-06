@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:14:14.020497+00:00",
+  "updatedAt": "2026-11-06T19:15:57.576175+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -306,7 +306,7 @@
       "storageName": "machen_greek_grammar",
       "name": "Machen Greek Grammar",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "major-and-laughy-ancient-greek-for-everyone",
