@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:48:29.506148+00:00",
+  "updatedAt": "2026-11-06T19:49:46.457512+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -558,7 +558,7 @@
       "storageName": "schaff_creeds_of_christendom_with_a_history_and_critical_notes_volume_i",
       "name": "Schaff Creeds Of Christendom, With A History And Critical Notes, Volume I",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "schaff-creeds-of-christendom-with-a-history-and-critical-notes-volume-ii",
