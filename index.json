@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:15:57.576175+00:00",
+  "updatedAt": "2026-11-06T19:16:58.071211+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -342,7 +342,7 @@
       "storageName": "miller_short_papers_on_church_history",
       "name": "Miller Short Papers On Church History",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "montgomery-sacred-poems-and-hymns",
