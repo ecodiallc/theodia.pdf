@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T16:49:18.718491+00:00",
+  "updatedAt": "2026-11-06T16:50:01.309500+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -603,7 +603,7 @@
       "storageName": "songs_and_hymns_of_the_earliest_greek_christian_poets",
       "name": "Songs And Hymns Of The Earliest Greek Christian Poets",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "the-1677-1689-london-baptist-confession-of-faith",
