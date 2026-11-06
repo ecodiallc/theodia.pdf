@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T17:12:23.425676+00:00",
+  "updatedAt": "2026-11-06T17:13:26.848718+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -162,7 +162,7 @@
       "storageName": "bunyan_the_pilgrims_progress",
       "name": "Bunyan The Pilgrim's Progress",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "calvin-institutes-of-christian-religion",
