@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:04:07.002510+00:00",
+  "updatedAt": "2026-11-06T19:04:54.742259+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -207,7 +207,7 @@
       "storageName": "donne_devotions",
       "name": "Donne Devotions",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "easton-s-bible-dictionary",
