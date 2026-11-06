@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:38:38.522724+00:00",
+  "updatedAt": "2026-11-06T19:39:20.475905+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -216,7 +216,7 @@
       "storageName": "eastons_bible_dictionary",
       "name": "Easton's Bible Dictionary",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "harnack-origin-of-the-new-testament",
