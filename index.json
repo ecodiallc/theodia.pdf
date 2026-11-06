@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T16:35:15.343212+00:00",
+  "updatedAt": "2026-11-06T16:39:58.004930+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -666,7 +666,7 @@
       "storageName": "watts_divine_and_moral_songs",
       "name": "Watts Divine And Moral Songs",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "watts-the-psalms-and-hymns-of-isaac-watts",
