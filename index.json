@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:23:30.255204+00:00",
+  "updatedAt": "2026-11-06T19:24:06.800489+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -495,7 +495,7 @@
       "storageName": "richardson_early_christian_fathers",
       "name": "Richardson Early Christian Fathers",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "ridling-the-bible-atlas",
