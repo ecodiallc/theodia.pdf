@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T18:57:06.151997+00:00",
+  "updatedAt": "2026-11-06T18:58:27.485871+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -612,7 +612,7 @@
       "storageName": "the_1677_1689_london_baptist_confession_of_faith",
       "name": "The 1677 1689 London Baptist Confession Of Faith",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "the-babylonian-talmud",
