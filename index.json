@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T17:09:31.463536+00:00",
+  "updatedAt": "2026-11-06T17:10:34.990669+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -279,7 +279,7 @@
       "storageName": "lewis_sweet_singers_of_wales",
       "name": "Lewis Sweet Singers Of Wales",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "lightfoot-the-apostolic-fathers",
