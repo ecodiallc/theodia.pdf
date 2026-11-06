@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T17:01:19.817947+00:00",
+  "updatedAt": "2026-11-06T17:03:33.019674+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -117,7 +117,7 @@
       "storageName": "brownlie_hymns_of_the_apostolic_church",
       "name": "Brownlie Hymns Of The Apostolic Church",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "bullinger-commentary-on-revelation",
