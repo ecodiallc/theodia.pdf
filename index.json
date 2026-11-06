@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:31:30.376919+00:00",
+  "updatedAt": "2026-11-06T19:32:33.969079+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -468,7 +468,7 @@
       "storageName": "palgrave_the_treasury_of_sacred_song",
       "name": "Palgrave The Treasury Of Sacred Song",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "pascal-pens-es",
