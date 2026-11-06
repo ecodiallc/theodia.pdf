@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T16:15:43.400041+00:00",
+  "updatedAt": "2026-11-06T16:20:50.711247+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -72,7 +72,7 @@
       "storageName": "berkhof_introduction_to_the_new_testament",
       "name": "Berkhof Introduction To The New Testament",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "bett-the-hymns-of-methodism-in-their-literary-relations",
