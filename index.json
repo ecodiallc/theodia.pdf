@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:21:00.103997+00:00",
+  "updatedAt": "2026-11-06T19:22:44.739484+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -108,7 +108,7 @@
       "storageName": "brannan_historic_creeds_and_confessions",
       "name": "Brannan Historic Creeds And Confessions",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "brownlie-hymns-of-the-apostolic-church",
