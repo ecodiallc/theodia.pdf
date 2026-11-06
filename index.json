@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:52:48.314628+00:00",
+  "updatedAt": "2026-11-06T19:53:36.287626+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -621,7 +621,7 @@
       "storageName": "the_babylonian_talmud",
       "name": "The Babylonian Talmud",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "the-hymnal-of-the-protestant-episcopal-church-in-the-usa",
