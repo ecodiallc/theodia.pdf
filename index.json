@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T14:56:16.771827+00:00",
+  "updatedAt": "2026-11-06T15:30:13.815047+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -45,7 +45,7 @@
       "storageName": "bacon_a_history_of_american_christianity",
       "name": "Bacon A History Of American Christianity",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "baptist-confessions-of-faith",
