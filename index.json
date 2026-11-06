@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:53:36.287626+00:00",
+  "updatedAt": "2026-11-06T19:56:38.885815+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -153,7 +153,7 @@
       "storageName": "bullinger_the_witness_of_the_stars",
       "name": "Bullinger The Witness Of The Stars",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "bunyan-the-pilgrim-s-progress",
