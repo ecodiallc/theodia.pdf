@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:24:06.800489+00:00",
+  "updatedAt": "2026-11-06T19:25:08.573957+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -315,7 +315,7 @@
       "storageName": "major_and_laughy_ancient_greek_for_everyone",
       "name": "Major And Laughy Ancient Greek For Everyone",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "manning-the-hymns-of-wesley-and-watts",
