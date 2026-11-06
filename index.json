@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T14:49:10.293007+00:00",
+  "updatedAt": "2026-11-06T14:56:16.771827+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -36,7 +36,7 @@
       "storageName": "augustin_city_of_god_and_christian_doctrine",
       "name": "Augustin City Of God And Christian Doctrine",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "bacon-a-history-of-american-christianity",
