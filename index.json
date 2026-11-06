@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:03:38.148410+00:00",
+  "updatedAt": "2026-11-06T19:04:07.002510+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -477,7 +477,7 @@
       "storageName": "pascal_penses",
       "name": "Pascal Pens\u00e9es",
       "description": "",
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
     {
       "id": "prudentius-the-hymns-of-prudentius",
