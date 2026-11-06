@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:52:03.691688+00:00",
+  "updatedAt": "2026-11-06T19:52:48.314628+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -630,7 +630,7 @@
       "storageName": "the_hymnal_of_the_protestant_episcopal_church_in_the_usa",
       "name": "The Hymnal Of The Protestant Episcopal Church In The Usa",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "the-larger-catechism-annotated",
