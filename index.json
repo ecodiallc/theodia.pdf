@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T14:36:45.298138+00:00",
+  "updatedAt": "2026-11-06T14:49:10.293007+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -18,7 +18,7 @@
       "storageName": "andrewes_devotions_of_bishop_andrewes",
       "name": "Andrewes Devotions Of Bishop Andrewes",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "arnold-the-early-christians",
