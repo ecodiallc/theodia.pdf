@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:56:38.885815+00:00",
+  "updatedAt": "2026-11-06T19:58:27.479386+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -261,7 +261,7 @@
       "storageName": "jamieson_fausset_brown_commentary_critical_and_explanatory_on_the_whole_bible",
       "name": "Jamieson, Fausset, Brown Commentary Critical And Explanatory On The Whole Bible",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "johnson-the-peoples-new-testament",
