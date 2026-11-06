@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:28:19.648595+00:00",
+  "updatedAt": "2026-11-06T19:29:44.038765+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -378,7 +378,7 @@
       "storageName": "newton_olney_hymns",
       "name": "Newton Olney Hymns",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "one-year-bible-reading-calendar",
