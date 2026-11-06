@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:34:58.664829+00:00",
+  "updatedAt": "2026-11-06T19:35:59.665428+00:00",
   "packages": [
     {
       "id": "acres-data-integrity-patterns-of-the-torah",
@@ -567,7 +567,7 @@
       "storageName": "schaff_creeds_of_christendom_with_a_history_and_critical_notes_volume_ii",
       "name": "Schaff Creeds Of Christendom, With A History And Critical Notes, Volume Ii",
       "description": "",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "schodde-the-book-of-enoch",
